@@ -3,3 +3,6 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub related
 ZCZC W01 120 L11 Assignment #1
+ZCZC W01 60 L23 Discord discussion
+
+
