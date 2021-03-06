@@ -9,3 +9,5 @@ ZCZC W01 30 L13 Assignment #3
 ZCZC W01 40 L14 Assignment #4
 ZCZC W01 20 L15 Assignment #5
 ZCZC W01 15 L16 Assignment #6
+ZCZC W01 15 L08 Trying Something
+ZCZC W01 45 L05 GSGS related
