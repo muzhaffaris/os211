@@ -20,3 +20,4 @@ ZCZC W02 10 L22 YouTube: study, etc.
 ZCZC W02 60 L13 Assignment #3
 ZCZC W03 90 L23 Discord discussion
 ZCZC W03 30 L08 Trying Something
+ZCZC W03 90 L02 ZOOM related
