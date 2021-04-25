@@ -32,3 +32,7 @@ ZCZC W05 100 L05 GSGS related
 ZCZC W05 180 L10 Assignment (General)
 ZCZC W06 30 L05 GSGS related
 ZCZC W06 180 L10 Assignment (General)
+ZCZC W06 90 L10 Assignment (General)
+ZCZC W06 90 L05 GSGS related
+ZCZC W06 120 L23 Discord discussion
+ZCZC W06 60 L22 Youtube: study, etc.
